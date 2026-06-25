@@ -1,5 +1,5 @@
 function Home() {
-  return <h1>Esse é um passo muito importante, novo deploy</h1>;
+  return <h1>Eu mereço um aumento XD </h1>;
 }
 
 export default Home;
